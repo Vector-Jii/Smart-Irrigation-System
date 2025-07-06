@@ -35,12 +35,10 @@ An IoT-based automated irrigation solution designed to optimize water usage thro
 ## 📡 Dashboard Interface
 All metrics are displayed through an interactive web dashboard, enabling remote access and visualization.
 
-## 📷 Basic circuit diagram
-*(Include photos, circuit diagrams, or screenshots of the dashboard here)*
-
 ## 📂 Repository Structure
 ```bash
 ├── /Smart Irrigation
 │   └── Soil_Irrigation_ESP32.ino
 │   └── Soil_sensor_Arduino.ino
 ├── README.md
+├── Basic circuit diagram   // Feel free to add some more stuff
