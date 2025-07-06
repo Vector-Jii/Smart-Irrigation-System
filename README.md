@@ -43,4 +43,4 @@ All metrics are displayed through an interactive web dashboard, enabling remote 
 ├── /Smart Irrigation
 │   └── Soil_Irrigation_ESP32.ino
 │   └── Soil_sensor_Arduino.ino
-|   └── README.md
+├── README.md
